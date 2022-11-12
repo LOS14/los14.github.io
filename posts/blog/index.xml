@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🧱 日常搬砖 on 扬帆起航</title>
+    <link>https://blog.trustyapp.com/posts/blog/</link>
+    <description>Recent content in 🧱 日常搬砖 on 扬帆起航</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 12 Nov 2022 19:21:25 +0800</lastBuildDate><atom:link href="https://blog.trustyapp.com/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github批量创建项目</title>
+      <link>https://blog.trustyapp.com/posts/blog/github_newproject/</link>
+      <pubDate>Sat, 12 Nov 2022 19:21:25 +0800</pubDate>
+      
+      <guid>https://blog.trustyapp.com/posts/blog/github_newproject/</guid>
+      <description>Github批量创建项目 1. 功能背景 AOSP的代码是使用repo管理的，需要上传至github上的时候需要批量创建项目。 2. 功能构思 从源代码库的.repo/manifests/default.xml文件中读取出来每一个项目的name及path，然后使用github的api批量创建项目</description>
+    </item>
+    
+    <item>
+      <title>高通代码下载(2022年版)</title>
+      <link>https://blog.trustyapp.com/posts/blog/qcom_source/</link>
+      <pubDate>Sat, 12 Nov 2022 19:15:48 +0800</pubDate>
+      
+      <guid>https://blog.trustyapp.com/posts/blog/qcom_source/</guid>
+      <description>高通代码下载(2022年版) 高通代码地址已经更换 https://wiki.codelinaro.org/en/clo/la/release-backup repo init -u git://codeaurora.org/platform/manifest.git -b release -m LA.UM.5.5.r1-06100-8x96.0.xml</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://blog.trustyapp.com/posts/blog/blog/</link>
+      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
+      
+      <guid>https://blog.trustyapp.com/posts/blog/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
